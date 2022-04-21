@@ -1,0 +1,14 @@
+.list{
+width:400px;
+font-size: 30px;
+font-family: sans-serif;
+color:red;
+margin: auto;
+margin-top:50px;
+background: pink;
+}
+
+button{
+    width:70px;
+    height:40px;
+}
